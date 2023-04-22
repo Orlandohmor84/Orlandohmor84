@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Orlandohmor84
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning VueJS and Strapi CMS
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on anything web
 - 📫 How to reach me > admin@ibuildweb.solutions
 
